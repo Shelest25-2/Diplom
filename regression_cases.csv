@@ -1,0 +1,10 @@
+id,enabled,expect_kind,expect_contains_all,expect_not_contains,manual_text,note
+nsk_triple_streets,1,intersection|intersection_approx,новосибирск|степная|тихвинская,рубцовск,"Новосельская Степная Тихвинская",После импорта intersections может быть kind=intersection
+nsk_pair_streets,1,intersection|intersection_approx,новосибирск|степная|тихвинская,,"Степная Тихвинская",Две улицы без города
+nsk_house_nevskogo_40,1,house,новосибирск|невского|40,,"Новосибирск ул. Александра Невского 40",Точный дом в geo.db
+msk_city,1,city,москва,,Москва,Только город из ru_cities / CITY_DB
+msk_tverskaya_street,1,street_centroid,москва|тверская,,"Москва Тверская",Центроид улицы с домами
+spb_alias,1,city,санкт,,СПб,Алиас города из CSV
+nsk_triple_multiline,1,intersection|intersection_approx,новосибирск|степная|тихвинская,рубцовск,"Новосельская
+Степная
+Тихвинская",Три строки как с OCR/ввод с переносами

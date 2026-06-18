@@ -1,0 +1,36 @@
+id,name,kind,lat,lon,commons_file
+moscow,Москва,city,55.7558,37.6173,Coat of arms of Moscow
+spb,Санкт-Петербург,city,59.9386,30.3141,Coat of arms of Saint Petersburg
+novosibirsk,Новосибирск,city,55.0084,82.9357,Coat of arms of Novosibirsk
+ekb,Екатеринбург,city,56.8389,60.6057,Coat of arms of Yekaterinburg
+kazan,Казань,city,55.7961,49.1064,Coat of arms of Kazan
+nn,Нижний Новгород,city,56.2965,43.9361,Coat of arms of Nizhny Novgorod
+krasnodar,Краснодар,city,45.0355,38.9753,Coat of arms of Krasnodar
+sochi,Сочи,city,43.5855,39.7231,Coat of arms of Sochi
+rostov,Ростов-на-Дону,city,47.2357,39.7015,Coat of arms of Rostov-on-Don
+samara,Самара,city,53.1959,50.1002,Coat of arms of Samara
+ufa,Уфа,city,54.7388,55.9721,Coat of arms of Ufa
+perm,Пермь,city,58.0105,56.2502,Coat of arms of Perm
+vladivostok,Владивосток,city,43.1155,131.8855,Coat of arms of Vladivostok
+khabarovsk,Хабаровск,city,48.4802,135.0719,Coat of arms of Khabarovsk
+tyumen,Тюмень,city,57.1530,65.5343,Coat of arms of Tyumen
+chelyabinsk,Челябинск,city,55.1644,61.4368,Coat of arms of Chelyabinsk
+omsk,Омск,city,54.9893,73.3682,Coat of arms of Omsk
+voronezh,Воронеж,city,51.6608,39.2003,Coat of arms of Voronezh
+tatarstan,Республика Татарстан,region,55.7961,49.1064,Coat of arms of Tatarstan
+bashkortostan,Республика Башкортостан,region,54.7355,55.9479,Coat of arms of Bashkortostan
+krasnodar_krai,Краснодарский край,region,45.0355,38.9753,Coat of arms of Krasnodar Krai
+krasnoyarsk_krai,Красноярский край,region,56.0153,92.8932,Coat of arms of Krasnoyarsk Krai
+sverdlovsk,Свердловская область,region,56.8389,60.6057,Coat of arms of Sverdlovsk Oblast
+rostov_obl,Ростовская область,region,47.2357,39.7015,Coat of arms of Rostov Oblast
+novosibirsk_obl,Новосибирская область,region,55.0084,82.9357,Coat of arms of Novosibirsk Oblast
+moscow_obl,Московская область,region,55.7558,37.6173,Coat of arms of Moscow Oblast
+leningrad_obl,Ленинградская область,region,59.9343,30.3351,Coat of arms of Leningrad Oblast
+crimea,Республика Крым,region,45.3453,34.4997,Coat of arms of the Republic of Crimea
+sakha,Республика Саха,city,62.0355,129.6755,Coat of arms of the Sakha Republic
+buryatia,Республика Бурятия,region,52.0496,113.4712,Coat of arms of Buryatia
+altai_rep,Республика Алтай,region,50.7114,86.9356,Coat of arms of the Altai Republic
+dagestan,Республика Дагестан,region,42.9849,47.5047,Coat of arms of Dagestan
+murmansk,Мурманская область,region,68.9707,33.0750,Coat of arms of Murmansk Oblast
+kaliningrad,Калининградская область,region,54.7104,20.4522,Coat of arms of Kaliningrad Oblast
+kamchatka,Камчатский край,region,53.0370,158.6559,Coat of arms of Kamchatka Krai

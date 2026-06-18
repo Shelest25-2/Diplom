@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+PySide6
+requests
+Pillow
+pytesseract
+opencv-python
+numpy
+rapidfuzz
+easyocr
+ultralytics

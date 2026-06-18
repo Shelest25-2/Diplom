@@ -1,0 +1,21 @@
+[2026-05-09 04:34:49] Старт: 9 файл(ов) → C:\users\oseus\desktop\diplom\geo.db
+[2026-05-09 04:34:49] Лог: C:\users\oseus\desktop\diplom\import_all_regions.log
+[2026-05-09 04:34:49] --- [1/9] C:\users\oseus\desktop\diplom\data\central-fed-district-260508.osm.pbf ---
+[2026-05-09 04:41:31] Готово за 6.7 мин (≈ новых сущностей: cities=4301, streets=37227, houses~=546271)
+[2026-05-09 04:41:31] --- [2/9] C:\users\oseus\desktop\diplom\data\crimean-fed-district-260508.osm.pbf ---
+[2026-05-09 04:41:48] Готово за 0.3 мин (≈ новых сущностей: cities=453, streets=2547, houses~=21405)
+[2026-05-09 04:41:48] --- [3/9] C:\users\oseus\desktop\diplom\data\far-eastern-fed-district-260508.osm.pbf ---
+[2026-05-09 04:45:15] Готово за 3.4 мин (≈ новых сущностей: cities=1436, streets=11171, houses~=129562)
+[2026-05-09 04:45:15] --- [4/9] C:\users\oseus\desktop\diplom\data\north-caucasus-fed-district-260508.osm.pbf ---
+[2026-05-09 04:46:41] Готово за 1.4 мин (≈ новых сущностей: cities=1550, streets=19056, houses~=508748)
+[2026-05-09 04:46:41] --- [5/9] C:\users\oseus\desktop\diplom\data\northwestern-fed-district-260508.osm.pbf ---
+[2026-05-09 04:51:48] Готово за 5.1 мин (≈ новых сущностей: cities=3386, streets=32544, houses~=482012)
+[2026-05-09 04:51:48] --- [6/9] C:\users\oseus\desktop\diplom\data\siberian-fed-district-260507.osm.pbf ---
+[2026-05-09 04:59:20] Готово за 7.5 мин (≈ новых сущностей: cities=2670, streets=24044, houses~=404754)
+[2026-05-09 04:59:20] --- [7/9] C:\users\oseus\desktop\diplom\data\south-fed-district-260508.osm.pbf ---
+[2026-05-09 05:02:21] Готово за 3.0 мин (≈ новых сущностей: cities=2365, streets=38497, houses~=1166211)
+[2026-05-09 05:02:21] --- [8/9] C:\users\oseus\desktop\diplom\data\ural-fed-district-260508.osm.pbf ---
+[2026-05-09 05:05:53] Готово за 3.5 мин (≈ новых сущностей: cities=2482, streets=29293, houses~=581384)
+[2026-05-09 05:05:53] --- [9/9] C:\users\oseus\desktop\diplom\data\volga-fed-district-260508.osm.pbf ---
+[2026-05-09 05:12:53] Готово за 7.0 мин (≈ новых сущностей: cities=6231, streets=48003, houses~=835876)
+[2026-05-09 05:12:53] === Итого: успешно 9/9, время 38.1 мин ===
